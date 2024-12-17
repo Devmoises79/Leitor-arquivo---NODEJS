@@ -1,2 +1,1 @@
-# Leitor-arquivo---NODEJS
-# Leitor-arquivo---NODEJS
+Leitor de Arquivo utilizando o NODEJS.
